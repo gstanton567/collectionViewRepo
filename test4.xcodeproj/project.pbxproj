@@ -13,6 +13,7 @@
 		154B7C7622A1B242008DDC28 /* test4.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 154B7C7422A1B242008DDC28 /* test4.xcdatamodeld */; };
 		154B7C7822A1B243008DDC28 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 154B7C7722A1B243008DDC28 /* Assets.xcassets */; };
 		154B7C7B22A1B243008DDC28 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 154B7C7922A1B243008DDC28 /* LaunchScreen.storyboard */; };
+		154B7C8322A1B3FE008DDC28 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 154B7C8222A1B3FE008DDC28 /* CollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		154B7C7722A1B243008DDC28 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		154B7C7A22A1B243008DDC28 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		154B7C7C22A1B243008DDC28 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		154B7C8222A1B3FE008DDC28 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				154B7C6D22A1B242008DDC28 /* AppDelegate.swift */,
 				154B7C6F22A1B242008DDC28 /* ViewController.swift */,
 				154B7C7122A1B242008DDC28 /* Main.storyboard */,
+				154B7C8222A1B3FE008DDC28 /* CollectionViewCell.swift */,
 				154B7C7722A1B243008DDC28 /* Assets.xcassets */,
 				154B7C7922A1B243008DDC28 /* LaunchScreen.storyboard */,
 				154B7C7C22A1B243008DDC28 /* Info.plist */,
@@ -140,6 +143,7 @@
 			files = (
 				154B7C7022A1B242008DDC28 /* ViewController.swift in Sources */,
 				154B7C6E22A1B242008DDC28 /* AppDelegate.swift in Sources */,
+				154B7C8322A1B3FE008DDC28 /* CollectionViewCell.swift in Sources */,
 				154B7C7622A1B242008DDC28 /* test4.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
